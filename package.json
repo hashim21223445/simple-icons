@@ -91,7 +91,7 @@
     "esbuild": "0.19.4",
     "fake-diff": "1.0.0",
     "get-relative-luminance": "1.0.0",
-    "husky": "8.0.3",
+    "husky": "9.1.7",
     "is-ci": "3.0.1",
     "jsonschema": "1.4.1",
     "markdown-link-check": "3.11.2",
